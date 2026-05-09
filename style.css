@@ -23,6 +23,7 @@ body {
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
+    padding-left: 20px;
 }
 .header{
     width: 100%;
@@ -310,9 +311,10 @@ section {
     justify-content: center;
     overflow: hidden;
     min-height: auto;
+    padding-left: 20px;
     
 }
-i
+
 
 .brand-title {
     font-family: 'Montserrat', sans-serif;
@@ -755,7 +757,7 @@ align-items: center;
     /* الخطوط الجانبية فقط للزر حسب الصورة */
     border-left: 2px solid #1a1a1a;
     border-right: 2px solid #1a1a1a;
-    padding: 8px 40px;
+    padding: 80px 40px;
     align-self: center;
     margin-top: 20px;
     font-weight: bold;
